@@ -1,0 +1,21 @@
+{
+  "name": "electron-practice-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://rhico_abueme@bitbucket.org/rhico_abueme/electron.git"
+  },
+  "author": "Rhico Abueme",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/rhico_abueme/electron#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^13.1.2"
+  }
+}
